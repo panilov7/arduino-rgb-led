@@ -14,7 +14,7 @@ int gndPin = 4;
 #define BLUE 3
 
 void setup(){
-  // declare the led pins as outputs
+  // set the led pins as outputs
   pinMode(redLED, OUTPUT);
   pinMode(greenLED, OUTPUT);
   pinMode(blueLED, OUTPUT);
